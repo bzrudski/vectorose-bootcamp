@@ -1,0 +1,8 @@
+# COPYING
+
+The data contained in the files 
+`MatureSheepFemur_Distal_S750_R1500_SMOOTH1_EIG_MASKED.npy` and
+`MatureSheepFemur_Proximal_S750_R1500_SMOOTH1_EIG_MASKED.npy` may **only**
+be used in the context of the CRBS directional statistics bootcamp.
+You may not use these files in any research work without prior written
+permission.
