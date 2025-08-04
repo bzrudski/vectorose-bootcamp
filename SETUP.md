@@ -35,7 +35,7 @@ VectoRose is a Python package that can easily be installed using `pip`. Similarl
 >
 > An advantage of using miniconda is it's flexibility when using different environments.
 >
-> If you do already have Python installed, I recommend looking into creating a new **virutal environment** or a new **Conda environment**. Since VectoRose depends on commonly-used packages, including NumPy, pandas and Matplotlib, creating a new virtual environment will ensure that you don't overwrite the versions of these packages that you already have installed.
+> If you do already have Python installed, I recommend looking into creating a new **virtual environment** or a new **Conda environment**. Since VectoRose depends on commonly-used packages, including NumPy, pandas and Matplotlib, creating a new virtual environment will ensure that you don't overwrite the versions of these packages that you already have installed.
 
 To install VectoRose and Jupyter Lab, open a **command line terminal** and run the following:
 
